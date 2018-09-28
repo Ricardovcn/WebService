@@ -44,7 +44,6 @@ for i in dadosSeguidores:
 	for r in dadosRepositorio:
 		print '      '+r['name']
 
-raw_input("ola");
 
 
 	
